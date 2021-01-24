@@ -27,6 +27,6 @@ The second most important factor is 'cp', cheat pain types.
 <img src="https://github.com/anthonydwan/Heart-Disease-UCI-Binary-Classification/blob/main/shap%20values.png" width="800" />
 </p>
 The above are visualisation of SHAP Values (an acronym from SHapley Additive exPlanations) which is a break down of a prediction to show the impact of each feature. When the value is greater than 0, it means that the prediction is 1 (that person has heart disease) and vice versa. 
-
-
+<p><p>
 Interestingly, we see that females have an increased change of heart diease than male. While angina and non-anginal pain (chest pain) both contribute to the risk of heart disease, if there are one or less major vassels colored by flourospy and if hemogolbin level is normal, the risk of heart diease is greatly reduced.  
+ </p>
