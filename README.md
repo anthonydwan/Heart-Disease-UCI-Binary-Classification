@@ -10,6 +10,11 @@ This is a personal side project on predicting heart disease based on various hea
 * investigating feature importance - this is particularly useful in healthcare context as we can explain what factors contribute to heart disease and allow better diagnosis and how to take preventive measures. 
 
 
+## Summary of findings:
+1. Binning the features did not contribute to improvement of decision tree models. However, logistic regression may have benefitted from the data transformations as it has performed comparable with more complicated and powerful models such as CatBoost or XGBoost. Another the reason may be stemmed from the simplicity of the dataset which meant that simpler models can perform well. 
+
+
+2. Feature Importance: 
 <p>
 <img src="https://github.com/anthonydwan/Heart-Disease-UCI-Binary-Classification/blob/main/barplot%20-%20feature%20importance%20for%20CB.png" width="800" />
 </p>
