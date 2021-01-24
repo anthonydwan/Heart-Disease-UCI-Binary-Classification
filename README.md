@@ -21,7 +21,7 @@ This is a personal side project on predicting heart disease based on various hea
 <img src="https://github.com/anthonydwan/Heart-Disease-UCI-Binary-Classification/blob/main/barplot%20-%20feature%20importance%20for%20CB.png" width="800" />
 </p>
 
-Interesting, we see that 'ca', the number of major vessels colored by flourosopy, is the most important feature in predicting heart disease. 
+Interesting, we see that 'ca', the number of major vessels colored by fluoroscopy, is the most important feature in predicting heart disease. 
 
 The second most important factor is 'cp', cheat pain types. 
 
