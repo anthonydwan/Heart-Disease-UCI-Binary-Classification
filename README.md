@@ -1,10 +1,12 @@
 # Heart Disease UCI Binary Classification
- 
+
+<p>
 Note: Since github only allows for static rendering of notebooks, please go to https://nbviewer.jupyter.org/github/anthonydwan/Heart-Disease-UCI-Binary-Classification/blob/main/Heart%20Disease%20Binary%20Classification.ipynb to review the notebook containing interactive plots and diagrams. 
 
+<br>
 
- 
-This is a personal side project on predicting heart disease based on various health factors and observations. There are several goals that I would like to achieve in this project: 
+
+This is a personal side project on predicting heart disease based on various health factors and observations (a binary classification model). There are several goals that I would like to achieve in this project: 
 * practise feature engineering and feature selection with the hopes of improving machine learning techniques;
 * implementing and evaluating different machine learning techniques;
 * investigating feature importance - this is particularly useful in healthcare context as we can explain what factors contribute to heart disease and allow better diagnosis and how to take preventive measures. 
